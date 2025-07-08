@@ -106,12 +106,12 @@ or later <https://gnu.org/licenses/gpl.html>.
 Read the COPYING file for copying conditions.
 Read the COPYRIGHT file for copyright notices.
 
-[0]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity-gtk-theme-1.png
-[1]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-1.png
-[2]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-2.png
-[3]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-3.png
-[4]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-1.png
-[5]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-2.png
-[6]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-3.png
-[7]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_green_140528-1.jpg
-[8]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Trinity_1318110-1.png
+[0]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/trinity-gtk-theme-1.png
+[1]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-1.png
+[2]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-2.png
+[3]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-3.png
+[4]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/trinity_118906-1.png
+[5]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/trinity_118906-2.png
+[6]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/trinity_118906-3.png
+[7]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/trinity_green_140528-1.jpg
+[8]: https://raw.githubusercontent.com/trinity-theme/trinity-gtk-theme/master/screenshots/Trinity_1318110-1.png
